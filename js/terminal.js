@@ -10,7 +10,7 @@ class ChromeTerminal {
         rows: 20,
         display: {
             prompt: "$\u0000",
-            carrot: "█",
+            carrot: "⎸",  // changed from '█'
             color: "white",
             theme: "default",
             printPath: true,
