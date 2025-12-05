@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Terminal",
+  "name": "Chrome Terminal Fork",
   "description": "A command line interface for chrome.",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "icons": {
     "16": "images/term-16.png",
     "32": "images/term-32.png",
