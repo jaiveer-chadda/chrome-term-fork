@@ -49,9 +49,9 @@ body.loading {
 #terminal-container #terminal-window {
     padding: 5px 10px;
     border: 5px solid var(--light-gray);
-    background-color: var(--purple);
+    background-color: var(--main-popup-background);
     color: var(--white);
-    font-weight: bold;
+    font-weight: normal;
     overflow-y: auto;
     overflow-x: hidden;
 }
@@ -76,11 +76,12 @@ body.loading {
     background-color: var(--sbclient-blue-bg);
 }
 
+/* manages each character box (or row I suppose) */
 #terminal-container #terminal-window .char-row {
-    font-family: "Courier New", Courier, monospace;
-    font-size: 18px;
+    font-family: "JetBrains Mono", Courier, monospace;
+    font-size: 16px;
     position: relative;
-    height: 20px;
+    height: 23px;
     margin: 0;
     padding: 0;
 }
