@@ -636,7 +636,7 @@ class ChromeTerminal {
             return args.slice(1).join(" ") ;
         }
 
-        let out = "\"" + args[0] + "\" is not recognized as a valid command."
+        let out = "\"" + args[0] + "\" is not recognised as a valid command."
         await this.println( out ) ;
         return out ;
     }

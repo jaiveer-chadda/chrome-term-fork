@@ -652,7 +652,7 @@ async function helpCmd(args) {
             this.terminal.status = 0 ;
             return out ;
         } else {
-            return await cmdErr( this,  "\"" + args[1] + "\" is not recognized as a valid command.", 1 ) ;
+            return await cmdErr( this,  "\"" + args[1] + "\" is not recognised as a valid command.", 1 ) ;
         }
     }
     let out = "Available commands are:"
