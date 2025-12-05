@@ -1,8 +1,8 @@
 # Chrome Terminal
 
-## A "terminal" for chrome.
+#### Forked from [chrome-term](https://github.com/simonpao/chrome-term) by [Simon Paonessa](https://github.com/simonpao)
 
-[Chrome Terminal - Chrome Web Store Page](https://chromewebstore.google.com/detail/chrome-terminal/ohejbgphpjcioiglmmpogdpffiacfkke)
+## A "terminal" for chrome.
 
 Implements common chrome tasks as command line functions.
 
