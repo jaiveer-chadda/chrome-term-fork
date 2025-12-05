@@ -1,25 +1,29 @@
 :root {
-    --blue: #0e7bff ;
-    --red: #ff2535 ;
-    --green: #3ae396 ;
-    --yellow: #e5c23b ;
-    --purple: #300a24 ;
-    --orange: #f18442 ;
-    --teal: #3be5aa ;
-    --gray: #5c5c5c ;
-    --light-gray: #d3d3d3 ;
-    --off-white: #dbdce1;
-    --white: #ffffff;
-    --black: #000000;
-    --dark: #333333;
+    --red:                      #f38ba8;
+    --orange:                   #fab387;
+    --yellow:                   #f9e2af;
+    --green:                    #a6e3a1;
+    --teal:                     #77e1e1;
+    --blue:                     #89b4fa;
+    --indigo:                   #978cf7;
+    --purple:                   #9966cc;
 
-    --green-phosphor: #92ff6f;
-    --green-phosphor-bg: #2c362c;
+    --black:                    #000000;
+    --dark:                     #333333;
+    --gray:                     #5c5c5c;
+    --light-gray:               #d3d3d3;
+    --off-white:                #dbdce1;
+    --white:                    #ffffff;
 
-    --amber-phosphor: #fb952f;
-    --amber-phosphor-bg: #4e3e44;
+    --main-popup-background:    #181825;
 
-    --sbclient-blue-bg: #000080;
+    --green-phosphor:           #92ff6f;
+    --green-phosphor-bg:        #2c362c;
+
+    --amber-phosphor:           #fb952f;
+    --amber-phosphor-bg:        #4e3e44;
+
+    --sbclient-blue-bg:         #000080;
 }
 
 body {
