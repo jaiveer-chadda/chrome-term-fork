@@ -33,7 +33,7 @@ class ChromeTerminal {
             executing: false
         },
         registeredCmd: {},
-        localStoragePrefix: "chrome-term"
+        localStoragePrefix: "chrome-term-fork"
     } ;
 
     constructor(columns, rows, timeout, options = {}) {
